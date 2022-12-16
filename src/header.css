@@ -1,0 +1,32 @@
+.settings-button {
+    position: absolute;
+    right: 20px;
+    
+    background-color: #333;
+    border: none;
+    font-size: 16px;
+    color: #fff;
+    padding: 10px 20px;
+    background: #e7ecf0;
+    border-radius: 12px;
+    font-family: Georgia;
+    color: #0d0c0c;
+    font-size: 20px;
+    padding: 12px 29px 10px 20px;
+    display: flex;
+  
+  }
+
+  button {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-left-color: yellow;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button.on {
+    border-left-color: blue;
+  }
